@@ -1,142 +1,131 @@
-# Hi 👋, I'm Abhishek Kumar
+<h1 align="center">Hi, I'm Abhishek Kumar 👋</h1>
 
-## Python Developer
+<h3 align="center">Python Developer</h3>
 
-I build scalable Python applications, automation tools, web scraping solutions, and data extraction pipelines. My focus is on solving real-world problems through clean, maintainable code while continuously improving my software engineering and problem-solving skills.
+<p align="center">Web Scraping & Automation Specialist</p>
 
----
-
-## 🚀 What I Build
-
-- 🌐 Web Scraping Solutions
-- 🤖 Browser Automation
-- 📊 Data Extraction Pipelines
-- 📁 Data Processing & Automation
-- ⚡ Python Utilities
+<p align="center">
+  <a href="https://www.linkedin.com/in/abhishek-kumar-76237178/">LinkedIn</a> •
+  <a href="https://www.upwork.com/freelancers/~019481a2254789f91e">Upwork</a> •
+  <a href="https://lnkd.in/duxuhVhb">LeetCode</a> •
+  <a href="abhishekkumar269@gmail.com">Email</a>
+</p>
 
 ---
 
-## 🎯 Current Focus
+# 👨‍💻 About Me
 
-- Python Development
-- Data Structures & Algorithms
-- Automation
-- SQL
+I'm a Python developer focused on web scraping, automation and building practical software for real-world problems.
 
+```python
+class Abhishek:
 
----
+    role = "Python Developer"
 
-## 🛠 Tech Stack
+    focus = [
+        "Python",
+        "Automation",
+        "Web Scraping",
+        "SQL"
+    ]
 
-### Languages
+    currently_learning = [
+        "Advanced Python",
+        "DSA"
+    ]
 
-Python • SQL • HTML • CSS 
+    building = [
+        "Automation Tools",
+        "Data Pipelines",
+        "Production Projects"
+    ]
 
-### Python Libraries
-
-Selenium • Playwright • BeautifulSoup • Requests
-
-### Data
-
-Pandas • NumPy • CSV • Excel
-
-### Databases
-
-SQLite • MySQL
-
-### Tools
-
-Git • GitHub • VS Code 
+    goal = "Build software that solves real-world problems."
+```
 
 ---
 
-## 📂 Featured Projects
+    🐍 Languages
+    Python • SQL • HTML/CSS
+    
+    🤖 Automation
+    Selenium • Playwright • BeautifulSoup • Requests
+    
+    📊 Data Processing
+    Pandas • NumPy
+    
+    🗄️ Database
+    SQLite • MySQL
+    
+    ⚙️ Tools
+    Git • GitHub • VS Code • Linux
+
+          
+  ## 🚀 Featured Projects
+
+  ### 🌐 Web Scraping Portfolio
+   20+ real-world web scraping projects using Python, Selenium, Playwright, BeautifulSoup and Requests.
+  
+  🔗 View Project →
+  https://github.com/suspaaX/web-scraping-portfolio
+  
+  ### 🤖 Client Scraping Project
+  Production-ready scraping solutions for client data extraction and automation.
+  
+  🔗 View Project →
+  https://github.com/suspaaX/client_scraping_project
+  
+  ### 🧠 100 Days of LeetCode
+  Daily Data Structures & Algorithms practice in Python.
+  
+  🔗 View Project →
+  https://github.com/suspaaX/100-Days-of-LeetCode
+  
+  ### 🌍 Django Blog
+  Blog application built with Django.
+  
+  🔗 View Project →
+   https://github.com/suspaaX/django-iblog
 
 
+## 📈 GitHub Analytics
 
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suspaaX&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
 
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=suspaaX&theme=github-dark&hide_border=true" />
+</p>
 
-### 🌐 Web Scraping Portfolio
-
-A collection of production-oriented scraping projects built using Python, Selenium, Playwright, BeautifulSoup and Requests.
-
----
-
-### 🤖 Browser Automation
-
-Automation projects focused on repetitive business workflows.
-
----
-
-### 📊 Data Extraction
-
-Projects involving large-scale structured and unstructured data collection.
-
----
-
-### 🐍 Python Utilities
-
-Small Python tools built to automate day-to-day tasks.
-
----
-
-### 💻 SQL Practice
-
-Database queries, joins, indexing and problem solving.
-
----
-
-### 🧠 LeetCode Journey
-
-Daily Data Structures & Algorithms practice in Python.
-
----
-
-## 📈 GitHub Stats
-
-(Add GitHub Readme Stats)
-
-(Add Streak Stats)
-
-(Add Most Used Languages)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suspaaX&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced Python
-- DSA
-- System Design
-- Backend Development
+- 🐍 Advanced Python
+- 🧠 Data Structures & Algorithms
+- 🗄 SQL
+- ⚙️ Backend Development
 
 ---
 
-## 🎯 2026 Goals
 
-✅ Become a Strong Python Developer
+# 🤝 Let's Connect
 
-✅ Build Production-Level Projects
 
-✅ Solve 250+ LeetCode Problems
-
-✅ Contribute to Open Source
-
-✅ Secure Freelance Clients
-
-✅ Crack Product-Based Companies
+- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-76237178/
+- 🚀 Upwork: https://www.upwork.com/freelancers/~019481a2254789f91e
+- 🧠 LeetCode: https://leetcode.com/u/creativemathur/
+- 📧 Email: <a href="mailto:abhishekkumar269@gmail.com">abhishekkumar269@gmail.com</a>
 
 ---
 
-## 🤝 Let's Connect
+> **"Build. Learn. Improve. Repeat."**
+ 
 
-LinkedIn - https://www.linkedin.com/in/abhishek-kumar-76237178/
 
-Portfolio - 
-
-Email - abhishekkumar@gmail.com
-
-Upwork - https://www.upwork.com/freelancers/~019481a2254789f91e
-
----
-
-> "Build. Learn. Improve. Repeat."
+  
