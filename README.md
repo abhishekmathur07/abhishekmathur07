@@ -5,10 +5,25 @@
 <p align="center">Web Scraping & Automation Specialist</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhishek-kumar-76237178/">LinkedIn</a> •
-  <a href="https://www.upwork.com/freelancers/~019481a2254789f91e">Upwork</a> •
-  <a href="https://lnkd.in/duxuhVhb">LeetCode</a> •
-  <a href="abhishekkumar269@gmail.com">Email</a>
+  <a href="https://www.linkedin.com/in/abhishek-kumar-76237178/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;
+  <a href="https://www.upwork.com/freelancers/~019481a2254789f91e">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/creativemathur/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abhishekkumar269@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=suspaaX&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -35,96 +50,111 @@ class Abhishek:
     ]
 
     building = [
+        "Web Scraping Projects",
         "Automation Tools",
-        "Data Pipelines",
-        "Production Projects"
+        "Data Extraction Pipelines"
     ]
 
-    goal = "Build software that solves real-world problems."
+  goal = "Build software that solves real-world problems."
+
 ```
 
 ---
+  ## 🛠️ Tech Stack
 
     🐍 Languages
     Python • SQL • HTML/CSS
     
     🤖 Automation
-    Selenium • Playwright • BeautifulSoup • Requests
+    Requests • BeautifulSoup • Selenium • Playwright
     
     📊 Data Processing
     Pandas • NumPy
     
     🗄️ Database
-    SQLite • MySQL
+    MySQL • SQLite
     
     ⚙️ Tools
     Git • GitHub • VS Code • Linux
 
+
+---
           
   ## 🚀 Featured Projects
 
   ### 🌐 Web Scraping Portfolio
    20+ real-world web scraping projects using Python, Selenium, Playwright, BeautifulSoup and Requests.
   
-  🔗 View Project →
-  https://github.com/suspaaX/web-scraping-portfolio
+  🔗 View Project →   https://github.com/suspaaX/web-scraping-portfolio
   
   ### 🤖 Client Scraping Project
-  Production-ready scraping solutions for client data extraction and automation.
+  Production-ready scraping and automation solutions for client projects.
   
   🔗 View Project →
   https://github.com/suspaaX/client_scraping_project
   
-  ### 🧠 100 Days of LeetCode
-  Daily Data Structures & Algorithms practice in Python.
+  ### 🧠 LeetCode
+  50+ LeetCode problems solved using Python.
   
   🔗 View Project →
   https://github.com/suspaaX/100-Days-of-LeetCode
   
   ### 🌍 Django Blog
-  Blog application built with Django.
+  Django-based blog application with authentication and CRUD operations.
   
   🔗 View Project →
    https://github.com/suspaaX/django-iblog
+
+---
 
 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=suspaaX&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=suspaaX&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=suspaaX&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suspaaX&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suspaaX&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suspaaX&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suspaaX&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
+</p>
+
+
 
 ---
+
 
 ## 📚 Currently Learning
 
-- 🐍 Advanced Python
-- 🧠 Data Structures & Algorithms
-- 🗄 SQL
-- ⚙️ Backend Development
+    • 🐍 Advanced Python
+    • 🤖 Browser Automation
+    • 🧠 Data Structures & Algorithms
+    • ⚙️ Backend Development
 
 ---
 
 
-# 🤝 Let's Connect
 
+## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-76237178/
-- 🚀 Upwork: https://www.upwork.com/freelancers/~019481a2254789f91e
-- 🧠 LeetCode: https://leetcode.com/u/creativemathur/
-- 📧 Email: <a href="mailto:abhishekkumar269@gmail.com">abhishekkumar269@gmail.com</a>
+- 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-76237178/)
+- 🚀 [Upwork](https://www.upwork.com/freelancers/~019481a2254789f91e)
+- 💻 [GitHub](https://github.com/suspaaX)
+- 🧠 [LeetCode](https://leetcode.com/u/creativemathur/)
+- 📧 [Email](mailto:abhishekkumar269@gmail.com)
+
 
 ---
 
-> **"Build. Learn. Improve. Repeat."**
+"Building practical software that solves real-world problems."
+ 
  
 
 
