@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suspaaX&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekmathur07&style=for-the-badge&color=blue" />
 </p>
 
 ---
@@ -83,27 +83,27 @@ class Abhishek:
   ## 🚀 Featured Projects
 
   ### 🌐 Web Scraping Portfolio
-   20+ real-world web scraping projects using Python, Selenium, Playwright, BeautifulSoup and Requests.
+  20+ real-world web scraping projects using Python, Selenium, Playwright, BeautifulSoup and Requests.
   
-  🔗 View Project →   https://github.com/suspaaX/web-scraping-portfolio
+  🔗 View Project →   https://github.com/abhishekmathur07/web-scraping-portfolio
   
   ### 🤖 Client Scraping Project
   Production-ready scraping and automation solutions for client projects.
   
   🔗 View Project →
-  https://github.com/suspaaX/client_scraping_project
+  https://github.com/abhishekmathur07/client_scraping_project
   
   ### 🧠 LeetCode
   50+ LeetCode problems solved using Python.
   
   🔗 View Project →
-  https://github.com/suspaaX/100-Days-of-LeetCode
+  https://github.com/abhishekmathur07/100-Days-of-LeetCode
   
   ### 🌍 Django Blog
   Django-based blog application with authentication and CRUD operations.
   
   🔗 View Project →
-   https://github.com/suspaaX/django-iblog
+   https://github.com/abhishekmathur07/django-iblog
 
 ---
 
@@ -111,19 +111,19 @@ class Abhishek:
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=suspaaX&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abhishekmathur07&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=suspaaX&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekmathur07&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suspaaX&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekmathur07&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suspaaX&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmathur07&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
 </p>
 
 
@@ -146,7 +146,7 @@ class Abhishek:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-kumar-76237178/)
 - 🚀 [Upwork](https://www.upwork.com/freelancers/~019481a2254789f91e)
-- 💻 [GitHub](https://github.com/suspaaX)
+- 💻 [GitHub](https://github.com/abhishekmathur07)
 - 🧠 [LeetCode](https://leetcode.com/u/creativemathur/)
 - 📧 [Email](mailto:abhishekkumar269@gmail.com)
 
