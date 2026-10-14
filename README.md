@@ -26,8 +26,9 @@
   </a>
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekmathur07&base=100&style=for-the-badge&color=blue" alt="Profile views"/>
+  <img src="https://hits.sh/github.com/abhishekmathur07.svg?style=for-the-badge&label=Profile%20Views&color=1f6feb&labelColor=444&extraCount=100" alt="Profile views"/>
 </p>
 
 ---
