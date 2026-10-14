@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Python+Developer;Web+Scraping+%26+Automation;Data+Extraction+Pipelines;Building+Real-World+Software" alt="Typing animation"/>
+</p>
+
 <h1 align="center">Hi, I'm Abhishek Kumar 👋</h1>
 
 <h3 align="center">Python Developer</h3>
@@ -23,7 +27,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abhishekmathur07&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=abhishekmathur07&base=100&style=for-the-badge&color=blue" alt="Profile views"/>
 </p>
 
 ---
@@ -55,14 +59,14 @@ class Abhishek:
         "Data Extraction Pipelines"
     ]
 
-  goal = "Build software that solves real-world problems."
+   goal = "Build software that solves real-world problems."
 
 ```
 
 ---
   ## 🛠️ Tech Stack
 
-    🐍 Languages
+    🐍 Languages  
     Python • SQL • HTML/CSS
     
     🤖 Automation
@@ -97,7 +101,7 @@ class Abhishek:
   50+ LeetCode problems solved using Python.
   
   🔗 View Project →
-  https://github.com/abhishekmathur07/100-Days-of-LeetCode
+  https://github.com/abhishekmathur07/leetcode-solutions
   
   ### 🌍 Django Blog
   Django-based blog application with authentication and CRUD operations.
@@ -111,19 +115,19 @@ class Abhishek:
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abhishekmathur07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abhishekmathur07&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+
+
+  <p align="center">
+  <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  <img src="https://img.shields.io/badge/Web%20Scraping-20%2B%20Projects-2EA043?style=for-the-badge&logo=python&logoColor=white" alt="Projects"/>
+  <img src="https://img.shields.io/badge/Freelance-Open%20for%20Work-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhishekmathur07&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhishekmathur07&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishekmathur07&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f85149&area=true&hide_border=true"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Always+building;Always+scraping;Always+learning" alt="Typing line"/>
 </p>
 
 
@@ -132,11 +136,10 @@ class Abhishek:
 
 
 ## 📚 Currently Learning
-
-    • 🐍 Advanced Python
-    • 🤖 Browser Automation
-    • 🧠 Data Structures & Algorithms
-    • ⚙️ Backend Development
+    - 🐍 Advanced Python
+    - 🤖 Browser Automation
+    - 🧠 Data Structures & Algorithms
+    - ⚙️ Backend Development
 
 ---
 
