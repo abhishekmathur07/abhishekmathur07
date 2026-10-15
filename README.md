@@ -91,13 +91,14 @@ class Abhishek:
   20+ real-world web scraping projects using Python, Selenium, Playwright, BeautifulSoup and Requests.
   
   🔗 View Project →   https://github.com/abhishekmathur07/web-scraping-portfolio
+
   
-  ### 🤖 Client Scraping Project
-  Production-ready scraping and automation solutions for client projects.
-  
+  ### 🤖 Upwork Scraping Projects
+  Solutions built for real Upwork job requirements (web scraping & automation), from prototypes to complete projects.
+
   🔗 View Project →
-  https://github.com/abhishekmathur07/client_scraping_project
-  
+  https://github.com/abhishekmathur07/upwork-scraping-projects
+      
   ### 🧠 LeetCode
   50+ LeetCode problems solved using Python.
   
