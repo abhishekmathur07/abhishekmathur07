@@ -100,8 +100,8 @@ class Abhishek:
   https://github.com/abhishekmathur07/upwork-scraping-projects
       
   ### 🧠 LeetCode
-  50+ LeetCode problems solved using Python.
-  
+  100+ LeetCode problems solved in Python, focused on data structures and algorithms.
+
   🔗 View Project →
   https://github.com/abhishekmathur07/leetcode-solutions
   
