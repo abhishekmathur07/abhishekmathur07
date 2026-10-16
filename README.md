@@ -121,12 +121,18 @@ class Abhishek:
 </p>
 
 
-
+      
   <p align="center">
   <img src="https://img.shields.io/badge/LeetCode-100%2B%20Solved-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </p>
+
+  <p align="center">
   <img src="https://img.shields.io/badge/Web%20Scraping-20%2B%20Projects-2EA043?style=for-the-badge&logo=python&logoColor=white" alt="Projects"/>
+  </p>
+
+  <p align="center">
   <img src="https://img.shields.io/badge/Freelance-Open%20for%20Work-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Freelance"/>
-</p>
+  </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=2EA043&center=true&vCenter=true&width=500&lines=Always+building;Always+scraping;Always+learning" alt="Typing line"/>
